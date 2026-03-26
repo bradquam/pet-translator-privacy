@@ -76,7 +76,7 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 If you have questions or concerns about this Privacy Policy or the App's practices, please contact us at:
 
 **Maximum Effort**
-Email: privacy@maximumeffort.com
+Email: bradquam1@yahoo.com
 
 ---
 
