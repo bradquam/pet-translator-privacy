@@ -1,7 +1,7 @@
 # Privacy Policy for Pet Personality Translator
 
 **Effective Date:** March 25, 2026
-**Last Updated:** March 25, 2026
+**Last Updated:** March 31, 2026
 
 Maximum Effort ("we", "us", or "our") built the Pet Personality Translator app (the "App") as a free application. This page informs visitors and users of our policies regarding the collection, use, and disclosure of personal information for anyone who uses the App.
 
@@ -13,11 +13,11 @@ Maximum Effort ("we", "us", or "our") built the Pet Personality Translator app (
 
 The App requests access to your device's camera and photo library so you can capture or select photos and videos of your pet. All photos and videos remain on your device. We do not upload, store, copy, or transmit your photos or videos to any external server.
 
-### Voice Generation (OpenAI API)
+### Voice Generation (ElevenLabs API)
 
-When you use the "Hear It Speak" or HD Voice feature, the App sends the **caption text only** (not your photos or videos) to OpenAI's text-to-speech API to generate an audio voice clip. This text contains no personal information — it consists of pre-written or user-edited humorous captions about pets. No images, videos, location data, or identifying information is included in these API requests.
+When you use the "Hear It Speak" or HD Voice feature, the App sends the **caption text only** (not your photos or videos) to ElevenLabs' text-to-speech API to generate an audio voice clip. This text contains no personal information — it consists of pre-written or user-edited humorous captions about pets. No images, videos, location data, or identifying information is included in these API requests.
 
-For information about how OpenAI processes data, please refer to [OpenAI's Privacy Policy](https://openai.com/privacy/).
+For information about how ElevenLabs processes data, please refer to [ElevenLabs' Privacy Policy](https://elevenlabs.io/privacy-policy).
 
 ### Local Storage
 
@@ -45,7 +45,7 @@ The App may be used by children under the age of 13. We are committed to complyi
 
 - **We do not knowingly collect personal information from children under 13** or from any user of any age.
 - Photos and videos captured or selected within the App remain entirely on the user's device. We never receive, access, store, or transmit these files.
-- The only data sent externally is non-personal pet caption text to OpenAI for voice generation, which contains no identifying information about any user, including children.
+- The only data sent externally is non-personal pet caption text to ElevenLabs for voice generation, which contains no identifying information about any user, including children.
 - We do not use advertising IDs or any tracking technologies.
 - We do not serve advertisements.
 
@@ -55,7 +55,7 @@ If you are a parent or guardian and believe that your child has provided persona
 
 The App uses the following third-party service:
 
-- **OpenAI API** — Used solely for text-to-speech voice generation. Only non-personal caption text is sent. No user data, images, or identifying information is transmitted. [OpenAI Privacy Policy](https://openai.com/privacy/)
+- **ElevenLabs API** — Used solely for text-to-speech voice generation. Only non-personal caption text is sent. No user data, images, or identifying information is transmitted. [ElevenLabs Privacy Policy](https://elevenlabs.io/privacy-policy)
 
 The App does not integrate any advertising networks, analytics services, or social media SDKs.
 
