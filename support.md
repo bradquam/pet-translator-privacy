@@ -1,8 +1,8 @@
-# Support — Pet Personality Translator
+# Support — Fur_Real
 
 **Developer:** Maximum Effort
 
-Thank you for using Pet Personality Translator! If you need help or have feedback, you're in the right place.
+Thank you for using Fur_Real! If you need help or have feedback, you're in the right place.
 
 ## Frequently Asked Questions
 
@@ -38,7 +38,7 @@ Voice audio is embedded in video exports only. Photos are exported as static ima
 
 If your question isn't answered above, please reach out:
 
-**Email:** bradquam1@yahoo.com
+**Email:** quambrad4@gmail.com
 
 We'll do our best to respond within 48 hours.
 
